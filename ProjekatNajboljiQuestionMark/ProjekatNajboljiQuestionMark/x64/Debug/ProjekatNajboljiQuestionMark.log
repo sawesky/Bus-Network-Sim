@@ -1,0 +1,17 @@
+﻿  main.cpp
+  Routes.cpp
+  Simulator.cpp
+D:\fakultet\2\3\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(36,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fakultet\2\3\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(72,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fakultet\2\3\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(82,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fakultet\2\3\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(114,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fakultet\2\3\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(199,22): warning C4101: 'e': unreferenced local variable
+D:\fakultet\2\3\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(275,22): warning C4101: 'e': unreferenced local variable
+D:\fakultet\2\3\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(357,22): warning C4101: 'e': unreferenced local variable
+D:\fakultet\2\3\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(476,25): warning C4101: 'e': unreferenced local variable
+D:\fakultet\2\3\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(479,21): warning C4101: 'e': unreferenced local variable
+D:\fakultet\2\3\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(669,25): warning C4101: 'e': unreferenced local variable
+  Station.cpp
+  Generating Code...
+D:\fakultet\2\3\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(672,21): warning C4101: 'e': unreferenced local variable
+  ProjekatNajboljiQuestionMark.vcxproj -> D:\fakultet\2\3\oop\ProjekatNajboljiQuestionMark\x64\Debug\ProjekatNajboljiQuestionMark.exe

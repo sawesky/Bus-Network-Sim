@@ -1,0 +1,12 @@
+﻿  Simulator.cpp
+E:\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(106,32): warning C4018: '<': signed/unsigned mismatch
+E:\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(199,22): warning C4101: 'e': unreferenced local variable
+E:\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(275,22): warning C4101: 'e': unreferenced local variable
+E:\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(357,22): warning C4101: 'e': unreferenced local variable
+E:\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(476,25): warning C4101: 'e': unreferenced local variable
+E:\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(479,21): warning C4101: 'e': unreferenced local variable
+E:\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(669,25): warning C4101: 'e': unreferenced local variable
+  main.cpp
+  Generating Code...
+E:\oop\ProjekatNajboljiQuestionMark\ProjekatNajboljiQuestionMark\Simulator.cpp(672,21): warning C4101: 'e': unreferenced local variable
+  ProjekatNajboljiQuestionMark.vcxproj -> E:\oop\ProjekatNajboljiQuestionMark\Debug\ProjekatNajboljiQuestionMark.exe
